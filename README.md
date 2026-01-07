@@ -26,16 +26,6 @@ Designing a secure identity management system using Amazon Cognito, which will h
 ---
 
 
-- User Authentication with Amazon Cognito: Create a User Pool with custom password policies and MFA
-- Define user groups for Students and Professors
-- Enable self-service sign-up and login
-- Frontend Integration: Configure App Client and Domain for secure hosted login
-- Integrate Cognito with a frontend app using OIDC Quick Setup
-- Ensure only verified users can access the university portal
-- This setup enforces strong identity protection while providing a seamless login experience.
-
----
-
 - ## Amazon Cognito provides a fully managed identity service for authentication and authorization. I've created a User Pool for both Students and Professors, enforce strong password policies, enable MFA, and configure groups for role-based access.
 <img width="1908" height="333" alt="Screenshot 2026-01-06 211112" src="https://github.com/user-attachments/assets/cfa2e9b9-bab5-4b7d-8671-68e440f140ea" />
 <img width="1900" height="634" alt="Screenshot 2026-01-06 211340" src="https://github.com/user-attachments/assets/bd9b0c14-3c69-40bd-b8b3-6dbc42c73468" />
