@@ -10,7 +10,7 @@ A university is building a centralized student portal that allows thousands of s
 ## Solution
 Designing a secure identity management system using Amazon Cognito, which will handle everything from authentication to access control.
 
-![Alt text](/cognito.jpg)
+![Alt text](/cognito1.jpg)
 
 - User (Student or Professor) accesses the university portal via the frontend app.
 - The frontend redirects users to Cognito's hosted login domain.
