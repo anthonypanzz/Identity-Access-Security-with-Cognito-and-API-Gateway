@@ -7,7 +7,7 @@ A university is building a centralized student portal that allows thousands of s
 - Role-based access control (RBAC)
 - This project simulates how a Cloud Security Engineer secures user identities and manages controlled access across different user roles using AWS-native identity services.
 
-## Our Solution
+## Solution
 Designing a secure identity management system using Amazon Cognito, which will handle everything from authentication to access control.
 
 - User Authentication with Amazon Cognito: Create a User Pool with custom password policies and MFA
@@ -20,7 +20,6 @@ Designing a secure identity management system using Amazon Cognito, which will h
 
 - ## Amazon Cognito provides a fully managed identity service for authentication and authorization. I've created a User Pool for both Students and Professors, enforce strong password policies, enable MFA, and configure groups for role-based access.
 <img width="1908" height="333" alt="Screenshot 2026-01-06 211112" src="https://github.com/user-attachments/assets/cfa2e9b9-bab5-4b7d-8671-68e440f140ea" />
-<img width="1912" height="458" alt="Screenshot 2026-01-06 211143" src="https://github.com/user-attachments/assets/c5845900-1697-4ce7-b736-4e49a4fbefd3" />
 <img width="1900" height="634" alt="Screenshot 2026-01-06 211340" src="https://github.com/user-attachments/assets/bd9b0c14-3c69-40bd-b8b3-6dbc42c73468" />
 <img width="1900" height="437" alt="Screenshot 2026-01-06 211243" src="https://github.com/user-attachments/assets/0ec1eda8-31d7-4c7f-9a12-9d8713502eb9" />
 <img width="1903" height="387" alt="Screenshot 2026-01-06 211441" src="https://github.com/user-attachments/assets/21a0c607-66b9-471d-81be-878142d8a4dc" />
@@ -29,10 +28,8 @@ Designing a secure identity management system using Amazon Cognito, which will h
 
 - ## The App Client represents your application (University Portal). It handles authentication requests from the User Pool.
 
-- The Cognito-managed domain provides hosted login and logout endpoints for users.
+- ## The Cognito-managed domain provides hosted login and logout endpoints for users.
 <img width="1912" height="458" alt="Screenshot 2026-01-06 211143" src="https://github.com/user-attachments/assets/eabb7acc-7ea7-47f6-a447-1ca6eb0d25f5" />
-<img width="1900" height="411" alt="Screenshot 2026-01-06 211205" src="https://github.com/user-attachments/assets/c90ce955-d974-404a-b3f3-099beb80dd6d" />
-
 
 ---
 
