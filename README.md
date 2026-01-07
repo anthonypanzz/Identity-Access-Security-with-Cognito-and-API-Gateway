@@ -34,7 +34,7 @@ Designing a secure identity management system using Amazon Cognito, which will h
 
 ---
 
-- ## The App Client represents your application (University Portal). It handles authentication requests from the User Pool.
+- ## The App Client represents the application (University Portal). It handles authentication requests from the User Pool.
 
 - ## The Cognito-managed domain provides hosted login and logout endpoints for users.
 <img width="1912" height="458" alt="Screenshot 2026-01-06 211143" src="https://github.com/user-attachments/assets/eabb7acc-7ea7-47f6-a447-1ca6eb0d25f5" />
