@@ -12,6 +12,19 @@ Designing a secure identity management system using Amazon Cognito, which will h
 
 ![Alt text](/cognito.jpg)
 
+- User (Student or Professor) accesses the university portal via the frontend app.
+- The frontend redirects users to Cognito's hosted login domain.
+- Cognito User Pool handles sign-up, login, MFA, and password validation.
+- After successful authentication, Cognito App Client issues ID and Access Tokens.
+- IAM roles are assigned based on user groups (Student or Professor).
+- Users are redirected back to the portal with a valid session.
+- CloudWatch monitors login attempts, MFA usage, and potential authentication errors.
+
+
+
+
+---
+
 
 - User Authentication with Amazon Cognito: Create a User Pool with custom password policies and MFA
 - Define user groups for Students and Professors
