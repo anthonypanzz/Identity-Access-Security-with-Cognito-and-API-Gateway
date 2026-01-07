@@ -44,8 +44,8 @@ Designing a secure identity management system using Amazon Cognito, which will h
 
 - ## Now that I have a Cognito User Pool and App Client configured, I then built the University Portal frontend. I started by creating a simple React app and then integrated Cognito authentication using the official OIDC Quick Setup approach.
 <img width="1900" height="411" alt="Screenshot 2026-01-06 211205" src="https://github.com/user-attachments/assets/cae7240a-b00e-46bd-8189-a187aa8c174a" />
-<img width="1430" height="756" alt="Screenshot 2026-01-06 052904" src="https://github.com/user-attachments/assets/54fca0dc-4f33-4248-b56e-098b47d13b6a" />
 <img width="1687" height="293" alt="Screenshot 2026-01-06 211533" src="https://github.com/user-attachments/assets/bdda0d02-4523-47fc-8916-5ee385eeb001" />
+<img width="1430" height="756" alt="Screenshot 2026-01-06 052904" src="https://github.com/user-attachments/assets/54fca0dc-4f33-4248-b56e-098b47d13b6a" />
 <img width="1677" height="706" alt="Screenshot 2026-01-06 211736" src="https://github.com/user-attachments/assets/928dd055-dfac-4780-af3a-3ac76bff1bfa" />
 
 ---
